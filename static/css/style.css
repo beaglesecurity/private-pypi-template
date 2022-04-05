@@ -1,0 +1,55 @@
+body {
+    font-family: "Source Sans Pro", "Trebuchet MS", "Lucida Grande", "Bitstream Vera Sans", "Helvetica Neue", "sans-serif";
+    margin: 0px;
+    background-color: #006dad;
+  }
+  h1 {
+    background-color: rgba(130,174,182,1);
+    font-size: 24px;
+    color: #fff;
+    padding: 45px;
+    margin: 0;
+    background-color: #0073b7;
+    background-repeat: repeat;
+    background-position: 0 50%;
+    border-bottom: 1px solid #0067a3;
+  }
+  .explanation {
+    background-color: rgba(215,226,241,1);
+    font-size: 14px;
+    color: rgba(4,38,45,1);
+    padding: 20px;
+  }
+  div.package {
+    font-size: 16px;
+    padding: 45px;
+    background-color: #006dad;
+    color: #fff;
+    height: 100vh;
+  }
+  a {
+    color: #006dad;
+    text-decoration: none;
+    background: #f0f0f0 url(/static/images/white-cube.png) no-repeat 0 50%;
+    background-position: 20px;
+    border: 1px solid #d3d3d3;
+    box-shadow: 1px 1px 2px 1px rgba(0,0,0,.05);
+    direction: ltr;
+    text-align: left;
+    display: inline-block;
+    padding: 15px 16px 15px 100px;
+    margin: 20px 20px;
+    max-width: 50vw;
+    min-width: 35vw;
+  }
+  .beagle-logo {
+    width: 160px;
+    height: 65px;
+  }
+  img {
+    padding: 0px 20px;
+  }
+  .title {
+    position: relative;
+      top: -20px;
+  }
